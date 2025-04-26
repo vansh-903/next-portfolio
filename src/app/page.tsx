@@ -1,4 +1,4 @@
-import {  Camera, Video as Film, Trophy as Football, Code } from "lucide-react"
+import {  Camera, Code } from "lucide-react"
 import Link from "next/link"
 import SectionCard from "@/components/section-card"
 
