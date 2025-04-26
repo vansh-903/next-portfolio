@@ -1,5 +1,20 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+
+What was your favorite part of building this?
+My favorite part was exploring new things — every project is an opportunity to learn and try something fresh. Whether experimenting with new libraries or trying out different solutions, I love discovering new tools and techniques that elevate the final product.
+
+What was the hardest, and how did you handle it?
+The hardest part was implementing the dark and light mode functionality. It took some time to get the right balance and ensure the theme switched seamlessly across the app. I tackled it by diving deep into CSS variables and leveraging React’s state management to handle the theme switching. It wasn’t easy, but it was rewarding to see it come together smoothly in the end.
+
+
+
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
