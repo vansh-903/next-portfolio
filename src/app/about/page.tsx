@@ -20,7 +20,7 @@ export default function AboutPage() {
         >
           <h1 className="text-primary text-5xl font-bold tracking-tight">About Me</h1>
           <p className="text-xl text-muted-foreground">
-            I'm Vansh — a developer, photographer, footballer, and aspiring filmmaker, all rolled into one.
+            I&apos;m Vansh — a developer, photographer, footballer, and aspiring filmmaker, all rolled into one.
           </p>
         </motion.div>
 
@@ -37,7 +37,7 @@ export default function AboutPage() {
             I started coding in Class 11 with C++, mostly just trying to survive DSA problems. 
             But somewhere between debugging at 2 AM and cracking recursion questions, I fell in love with it.
             Curious to build real stuff, I jumped into web development — starting with basic HTML and CSS and eventually getting hooked to React. 
-            Now, whether it's solving algorithms or perfecting UI details, coding for me is part hustle, part passion, and a lot of fun.
+            Now, whether it&apos;s solving algorithms or perfecting UI details, coding for me is part hustle, part passion, and a lot of fun.
             </p>
             <p className="text-muted-foreground">
               I love solving problems, staying up late polishing tiny UI details, and constantly leveling up my craft. 
@@ -127,7 +127,7 @@ export default function AboutPage() {
                 <h3 className="text-xl font-semibold">Filmmaking</h3>
               </div>
               <p className="text-muted-foreground mb-4">
-                Exploring storytelling through filmmaking — scripting, shooting, editing. It's like coding, but with light and emotions.
+                Exploring storytelling through filmmaking — scripting, shooting, editing. It&apos;s like coding, but with light and emotions.
               </p>
             </div>
           </div>

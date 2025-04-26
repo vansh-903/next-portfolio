@@ -52,7 +52,7 @@ export default function HomePage() {
         <div className="space-y-12">
           <div className="space-y-4">
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
-              Hi, I'm <span className="text-primary">Vansh</span>
+              Hi, I&apos;m <span className="text-primary">Vansh</span>
             </h1>
             <p className="text-xl text-muted-foreground">
             I design and code web experiences that are smooth, simple, and a little bit cinematic — just how I like it.

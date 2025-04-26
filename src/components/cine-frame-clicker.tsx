@@ -4,7 +4,7 @@ import type React from "react"
 
 import { useState, useEffect } from "react"
 import { Video as Film } from "lucide-react"
-import { useTheme } from "next-themes"
+
 
 const filmQuotes = [
   "Action! Scene 1 - Dev in Action",
@@ -23,7 +23,7 @@ export default function CineFrameClicker() {
   const [dragOffset, setDragOffset] = useState({ x: 0, y: 0 })
   const [isAnimating, setIsAnimating] = useState(false)
   const [quote, setQuote] = useState("")
-  const { theme } = useTheme()
+  
 
   const handleMouseDown = (e: React.MouseEvent) => {
     setIsDragging(true)
